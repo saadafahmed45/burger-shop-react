@@ -1,0 +1,47 @@
+.footer__section{
+    padding:100px 0px;
+    background-color:#212529;
+    color:#fff;
+}
+
+.footer__left h3 {
+    font-size: 25px;
+  }
+  .footer__left p {
+    width: 75%;
+    font-size: 17px;
+  }
+.footer__link li {
+    list-style: none;
+  }
+  .footer__link a {
+    text-decoration: none;
+    color:#fff;
+
+    opacity: 0.8;
+    margin-top:10px;
+  }
+  .footer__link a:hover{
+      text-decoration: underline;
+  }
+  .copyright__sec{
+      padding:5px 0px;
+    background-color:#212529;
+
+  }
+  .copyright__sec p{
+      font-size:16px;
+      text-align: center;
+      color:#fff;
+
+  }
+
+  .footer_icons i a {
+	background: gray;
+	padding: 8px;
+	margin-left: 10px;
+	border-radius: 30px;
+	font-size: 25px;
+	display: inline-flex;
+    color: #fff;
+}

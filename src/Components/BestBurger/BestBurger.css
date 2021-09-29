@@ -1,0 +1,41 @@
+.best__burger__section {
+  background: var(--tomato-color);
+}
+.best_burger_img img {
+  width: 78%;
+padding:20px;
+}
+
+.burger__content {
+  margin-top: 15%;
+  color: var(--light-color);
+}
+.burger__content h1 {
+  font-size: 55px;
+
+  font-weight: 600;
+}
+.burger__content p {
+  width: 85%;
+  font-size: 20px;
+}
+
+.order__btn__sec {
+  margin-top: 30px;
+}
+.order__btn__sec a {
+  color: var(--tomato-color);
+  padding: 8px 50px;
+  background: var(--light-color);
+  border-radius: 30px;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+.order__btn__sec a:hover {
+  color: var(--light-color);
+  padding: 8px 50px;
+  border: 1px solid var(--light-color);
+  background: var(--tomato-color);
+}

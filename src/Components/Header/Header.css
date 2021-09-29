@@ -1,0 +1,49 @@
+.header__section{
+    background-image: url(../Images/headerBg.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.header__content{
+    color: #fff;
+    
+}
+
+.header__content { 
+    margin-top:50px;
+}
+.header__content h1 {
+	font-size: 60px;
+}
+
+.header__content p {
+	font-size: 20px;
+    width: 70%;
+}
+.header__content p {
+	font-size: 20px;
+	width: 60%;
+    margin-top:30px;
+
+}
+.order__btn{
+    margin-top:5%;
+}
+.order__btn a {
+	color: var(--sec-light);
+	padding: 8px 50px;
+	background: var(--tomato-color) ;
+    border-radius: 30px;
+    font-size:18px;
+    text-decoration: none;
+    font-weight:500;
+    transition: all 0.3s ease
+}
+.order__btn a:hover {
+    color: var(--tomato-color);
+	padding: 8px 50px;
+	background:var(--sec-light) ;
+  border: 1px solid var(--tomato-color);
+
+}

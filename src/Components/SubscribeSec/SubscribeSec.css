@@ -1,0 +1,39 @@
+.subscribe__section{
+    background: var(--sec-light);
+    /* height: 80vh; */
+}
+.sub__content{
+    /* margin-top:5%; */
+    text-align: center;
+}
+
+.sub__content p{
+    font-size: 16px;
+    width: 40%;
+    margin: auto;
+
+}
+
+
+
+.sub__input input {
+    border: none;
+    padding: 10px 20px;
+    width: 25%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .sub__input {
+    margin-top: 30px;
+  }
+  .sub__btn{
+      background: var(--tomato-color);
+      color: var(--light-color);
+      padding: 10px 20px;
+    border: none;
+
+  }
+  .sub__btn:hover{
+    background:var(--light-color);
+    color:  var(--tomato-color);  
+    border: 1px solid var(--tomato-color); 
+  }

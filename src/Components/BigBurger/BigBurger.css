@@ -1,0 +1,13 @@
+.big__burger__Section{
+    background: var(--sec-light);
+    color: var(--tomato-color);
+    margin:auto;
+}
+.big_burger{
+    color: var(--tomato-) !important;
+    margin-left: 5%!important;
+}
+
+.bestImgSec img {
+	margin-left: 14% !important;
+}
